@@ -80,6 +80,6 @@
 ### 🔗 Connect with me
 - 💼 LinkedIn: https://www.linkedin.com/in/madhubalasingh38/
 
-  <p align="center">
-  <img src="https://github.com/Madhubala-Singh/Madhubala-Singh/blob/output/github-contribution-grid-snake.svg" />
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Madhubala-Singh/Madhubala-Singh/output/github-contribution-grid-snake.svg" />
 </p>
