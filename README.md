@@ -6,22 +6,23 @@
 
 ## 💻 Skills
 
-* Java | Python | SQL
-* AWS | Azure
-* Git & GitHub
+* Languages: Java, Python, SQL
+* Cloud & DevOps: AWS, Azure, GCP, Docker
+* Tools: Git, GitHub, Postman
 
 ## 📌 Projects
 
-* AWS Chatbot (Lambda + API Gateway)
-* Student Management System
-* Azure Queue Storage
+* AWS Serverless To-Do Application (Lambda + API Gateway)
+* Complaint Management System
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhubala-Singh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubala-Singh&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Madhubala-Singh)
+![LeetCode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/MadhubalaSingh/?theme=dark&font=Baloo&ext=heatmap)
 
 ## 📫 Connect with me
 
-* LinkedIn: ([add your link](https://www.linkedin.com/in/madhubalasingh38/))
+* LinkedIn: ([https://www.linkedin.com/in/madhubalasingh38/])
 
