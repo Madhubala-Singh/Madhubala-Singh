@@ -45,6 +45,20 @@
   <img src="https://leetcard.jacoblin.cool/MadhubalaSingh?theme=dark&ext=heatmap" />
 </p>
 
+## 🟢 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/madhubalasingh61" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-5★-blue?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-2★-lightgrey"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-Active-success"/>
+</p>
+
 ---
 
 ### 🔗 Connect with me
