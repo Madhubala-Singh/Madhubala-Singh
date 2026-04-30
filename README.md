@@ -20,7 +20,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhubala-Singh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubala-Singh&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Madhubala-Singh)
-![LeetCode Stats](https://leetcard.jacoblin.cool/https://leetcode.com/u/MadhubalaSingh/?theme=dark&font=Baloo&ext=heatmap)
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/MadhubalaSingh?theme=dark&font=Baloo&ext=heatmap)
 
 ## 📫 Connect with me
 
