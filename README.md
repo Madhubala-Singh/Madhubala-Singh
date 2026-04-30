@@ -1,9 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00EA64,100:0e75b6&height=100&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Madhubala Singh</h1>
 <h3 align="center">🚀 Aspiring Software Developer | Cloud & Backend Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhubala-Singh&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
-</p>
 
 ---
 
@@ -38,30 +38,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubala-Singh&layout=compact&theme=tokyonight" />
 </p>
 
+## 🟢 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/madhubalasingh61">
+    <img src="https://img.shields.io/badge/HackerRank-Visit%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-5★-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-2★-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-Active-2ECC71?style=for-the-badge" />
+</p>
+
 ---
 
 ### 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/MadhubalaSingh?theme=dark&ext=heatmap" />
-</p>
-
-
-## 🟢 HackerRank
-
-<p align="center">
-  <a href="https://www.hackerrank.com/madhubalasingh61">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-5★-blue?logo=python&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/C-2★-lightgrey" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Problem%20Solving-Active-success" />
 </p>
 
 ---
