@@ -37,7 +37,7 @@
   → Developed using HTML, CSS, PHP & MySQL  
   → Built admin dashboard for tracking complaints
 
--🔹 **AI-Powered Cloud-Based Online Examination System**
+- 🔹 **AI-Powered Cloud-Based Online Examination System**
   → Built using React.js, Node.js, AWS, Docker, Kubernetes & WebSockets
   → Implemented AI-based proctoring, microservices architecture, and real-time exam management
 
